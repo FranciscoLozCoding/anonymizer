@@ -1,0 +1,13 @@
+name: "anonymizer-plugin"
+version: "0.1.0"
+description: "An anonymizer to obfuscate faces and license plates."
+keywords: ""
+authors: "Francisco Lozano"
+collaborators: ""
+funding: ""
+license: ""
+homepage: ""
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
