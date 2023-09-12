@@ -25,11 +25,11 @@ fish-eye or other extreme camera configurations.
 
 ## Examples
 
-![License Plate Example Raw](images/coco02.jpg?raw=true "Title")
-![License Plate Anonymized](images/coco02_anonymized.jpg?raw=true "Title")
+![License Plate Example Raw](images/test/coco02.jpg?raw=true "Title")
+![License Plate Anonymized](images/test/coco02_anonymized.jpg?raw=true "Title")
 
-![Face Example Raw](images/coco01.jpg?raw=true "Title")
-![Face Example Anonymized](images/coco01_anonymized.jpg?raw=true "Title")
+![Face Example Raw](images/anonymized/coco01.jpg?raw=true "Title")
+![Face Example Anonymized](images/anonymized/coco01_anonymized.jpg?raw=true "Title")
 
 
 ## Installation
